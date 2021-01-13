@@ -3,4 +3,4 @@ players select a woman to play as for the duration of their season period. Volle
 
 Screenshots :
 
-![Alt text](Female.gif?raw=true "pic")
+![Alt text](Screenshot_1.gif?raw=true "pic")
